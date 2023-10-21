@@ -1,6 +1,6 @@
 
 
-from hello_world_finder import return_hello_world
+from hello_world import return_hello_world
 
 
 def test_hello_world_finder():

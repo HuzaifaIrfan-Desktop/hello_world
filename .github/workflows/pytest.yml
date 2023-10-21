@@ -1,6 +1,9 @@
 name: PYTEST
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   test:
@@ -18,4 +21,5 @@ jobs:
       - name: Run pytest
         run: |
           pip install pytest 
+          pip install -e .
           pytest
