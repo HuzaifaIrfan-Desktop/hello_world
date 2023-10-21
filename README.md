@@ -15,6 +15,7 @@
 
 | CI Status | Branch |
 | - | - |
-| [![test workflow](https://github.com/HuzaifaIrfan/hello_world/workflows/pytest/badge.svg?branch=main)](https://github.com/HuzaifaIrfan/hello_world/actions?query=workflow%3Apytest+branch%3Amain) | `main` |
+| [![GitHub Actions CI](https://github.com/HuzaifaIrfan/hello_world/workflows/pytest/badge.svg?branch=main)](https://github.com/HuzaifaIrfan/hello_world/actions?query=workflow%3Apytest+branch%3Amain) | `main` |
+
 
 <hr>
