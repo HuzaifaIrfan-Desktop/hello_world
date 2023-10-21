@@ -5,7 +5,7 @@
   <p><h3 align="center">Hello World example project 🚀</h3></p>
   <a href="https://github.com/HuzaifaIrfan/hello_world">Github</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/HuzaifaIrfan/hello_world/blob/main/README.md">Readme</a>
+  <a href="#">#</a>
 </div>
 
 <hr>
@@ -59,4 +59,4 @@ return_hello_world(sleep=True)
 
 ## License
 
-Licensed under the MIT License, Copyright 2023 Huzaifa Irfan. [LICENSE](https://github.com/HuzaifaIrfan/hello_world/blob/main/LICENSE).
+Licensed under the MIT License, Copyright 2023 Huzaifa Irfan. [LICENSE](LICENSE)
