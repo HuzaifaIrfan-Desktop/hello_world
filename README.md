@@ -3,10 +3,11 @@
 <div align="center">
   <h1>Hello World</h1>
   <p><h3 align="center">Hello World example project 🚀</h3></p>
-  <a href="https://github.com/HuzaifaIrfan/hello_world">Github</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#">#</a>
 </div>
+
+[Github](https://github.com/HuzaifaIrfan/hello_world)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
 
 <hr>
 
