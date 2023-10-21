@@ -33,7 +33,7 @@
 
 </div>
 
-## Installing
+## Install
 
 ```bash
 python -m pip install .
