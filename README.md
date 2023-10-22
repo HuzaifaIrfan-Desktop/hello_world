@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hello World</h1>
-  <p><h3 align="center">Hello World example project 🚀</h3></p>
+  <p><h3 align="center">Hello World Finder example project 🚀</h3></p>
 </div>
 
 [Github](https://github.com/HuzaifaIrfan/hello_world)
