@@ -17,7 +17,7 @@
 
 | CI Status | Branch |
 | - | - |
-| [![GitHub Actions CI](https://github.com/HuzaifaIrfan/hello_world/workflows/pytest/badge.svg)](https://github.com/HuzaifaIrfan/hello_world/actions?query=workflow%3Apytest+branch%3Amain) | `main` |
+| [![GitHub Actions CI](https://github.com/HuzaifaIrfan/hello_world/workflows/pytest/badge.svg)](https://github.com/HuzaifaIrfan/hello_world/actions?query=workflow%3Apytest+branch%3Aprod) | `prod` |
 
 
 <hr>
@@ -37,7 +37,13 @@
 ## Install
 
 ```bash
-python -m pip install .
+python3 -m pip install .
+```
+
+## Run
+
+```bash
+python3 example.py
 ```
 
 ## Usage
