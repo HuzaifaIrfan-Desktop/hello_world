@@ -66,4 +66,4 @@ return_hello_world(sleep=True)
 
 ## License
 
-Licensed under the MIT License, Copyright 2023 Huzaifa Irfan. [LICENSE](LICENSE)
+Licensed under the MIT License, Copyright 2024 Huzaifa Irfan. [LICENSE](LICENSE)
